@@ -1,0 +1,15 @@
+C:\Users\vinor\Desktop\education\001\helloConsole\bin\Debug\net6.0\helloConsole.exe
+C:\Users\vinor\Desktop\education\001\helloConsole\bin\Debug\net6.0\helloConsole.deps.json
+C:\Users\vinor\Desktop\education\001\helloConsole\bin\Debug\net6.0\helloConsole.runtimeconfig.json
+C:\Users\vinor\Desktop\education\001\helloConsole\bin\Debug\net6.0\helloConsole.dll
+C:\Users\vinor\Desktop\education\001\helloConsole\bin\Debug\net6.0\ref\helloConsole.dll
+C:\Users\vinor\Desktop\education\001\helloConsole\bin\Debug\net6.0\helloConsole.pdb
+C:\Users\vinor\Desktop\education\001\helloConsole\obj\Debug\net6.0\helloConsole.csproj.AssemblyReference.cache
+C:\Users\vinor\Desktop\education\001\helloConsole\obj\Debug\net6.0\helloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinor\Desktop\education\001\helloConsole\obj\Debug\net6.0\helloConsole.AssemblyInfoInputs.cache
+C:\Users\vinor\Desktop\education\001\helloConsole\obj\Debug\net6.0\helloConsole.AssemblyInfo.cs
+C:\Users\vinor\Desktop\education\001\helloConsole\obj\Debug\net6.0\helloConsole.csproj.CoreCompileInputs.cache
+C:\Users\vinor\Desktop\education\001\helloConsole\obj\Debug\net6.0\helloConsole.dll
+C:\Users\vinor\Desktop\education\001\helloConsole\obj\Debug\net6.0\ref\helloConsole.dll
+C:\Users\vinor\Desktop\education\001\helloConsole\obj\Debug\net6.0\helloConsole.pdb
+C:\Users\vinor\Desktop\education\001\helloConsole\obj\Debug\net6.0\helloConsole.genruntimeconfig.cache
