@@ -1,0 +1,15 @@
+C:\Users\vinor\Desktop\education\001\exampe004\bin\Debug\net6.0\exampe004.exe
+C:\Users\vinor\Desktop\education\001\exampe004\bin\Debug\net6.0\exampe004.deps.json
+C:\Users\vinor\Desktop\education\001\exampe004\bin\Debug\net6.0\exampe004.runtimeconfig.json
+C:\Users\vinor\Desktop\education\001\exampe004\bin\Debug\net6.0\exampe004.dll
+C:\Users\vinor\Desktop\education\001\exampe004\bin\Debug\net6.0\ref\exampe004.dll
+C:\Users\vinor\Desktop\education\001\exampe004\bin\Debug\net6.0\exampe004.pdb
+C:\Users\vinor\Desktop\education\001\exampe004\obj\Debug\net6.0\exampe004.csproj.AssemblyReference.cache
+C:\Users\vinor\Desktop\education\001\exampe004\obj\Debug\net6.0\exampe004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinor\Desktop\education\001\exampe004\obj\Debug\net6.0\exampe004.AssemblyInfoInputs.cache
+C:\Users\vinor\Desktop\education\001\exampe004\obj\Debug\net6.0\exampe004.AssemblyInfo.cs
+C:\Users\vinor\Desktop\education\001\exampe004\obj\Debug\net6.0\exampe004.csproj.CoreCompileInputs.cache
+C:\Users\vinor\Desktop\education\001\exampe004\obj\Debug\net6.0\exampe004.dll
+C:\Users\vinor\Desktop\education\001\exampe004\obj\Debug\net6.0\ref\exampe004.dll
+C:\Users\vinor\Desktop\education\001\exampe004\obj\Debug\net6.0\exampe004.pdb
+C:\Users\vinor\Desktop\education\001\exampe004\obj\Debug\net6.0\exampe004.genruntimeconfig.cache
