@@ -1,0 +1,15 @@
+C:\Users\vinor\Desktop\education\001\giri\bin\Debug\net6.0\giri.exe
+C:\Users\vinor\Desktop\education\001\giri\bin\Debug\net6.0\giri.deps.json
+C:\Users\vinor\Desktop\education\001\giri\bin\Debug\net6.0\giri.runtimeconfig.json
+C:\Users\vinor\Desktop\education\001\giri\bin\Debug\net6.0\giri.dll
+C:\Users\vinor\Desktop\education\001\giri\bin\Debug\net6.0\ref\giri.dll
+C:\Users\vinor\Desktop\education\001\giri\bin\Debug\net6.0\giri.pdb
+C:\Users\vinor\Desktop\education\001\giri\obj\Debug\net6.0\giri.csproj.AssemblyReference.cache
+C:\Users\vinor\Desktop\education\001\giri\obj\Debug\net6.0\giri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinor\Desktop\education\001\giri\obj\Debug\net6.0\giri.AssemblyInfoInputs.cache
+C:\Users\vinor\Desktop\education\001\giri\obj\Debug\net6.0\giri.AssemblyInfo.cs
+C:\Users\vinor\Desktop\education\001\giri\obj\Debug\net6.0\giri.csproj.CoreCompileInputs.cache
+C:\Users\vinor\Desktop\education\001\giri\obj\Debug\net6.0\giri.dll
+C:\Users\vinor\Desktop\education\001\giri\obj\Debug\net6.0\ref\giri.dll
+C:\Users\vinor\Desktop\education\001\giri\obj\Debug\net6.0\giri.pdb
+C:\Users\vinor\Desktop\education\001\giri\obj\Debug\net6.0\giri.genruntimeconfig.cache
