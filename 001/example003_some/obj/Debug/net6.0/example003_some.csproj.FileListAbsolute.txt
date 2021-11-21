@@ -1,0 +1,15 @@
+C:\Users\vinor\Desktop\education\001\example003_some\bin\Debug\net6.0\example003_some.exe
+C:\Users\vinor\Desktop\education\001\example003_some\bin\Debug\net6.0\example003_some.deps.json
+C:\Users\vinor\Desktop\education\001\example003_some\bin\Debug\net6.0\example003_some.runtimeconfig.json
+C:\Users\vinor\Desktop\education\001\example003_some\bin\Debug\net6.0\example003_some.dll
+C:\Users\vinor\Desktop\education\001\example003_some\bin\Debug\net6.0\ref\example003_some.dll
+C:\Users\vinor\Desktop\education\001\example003_some\bin\Debug\net6.0\example003_some.pdb
+C:\Users\vinor\Desktop\education\001\example003_some\obj\Debug\net6.0\example003_some.csproj.AssemblyReference.cache
+C:\Users\vinor\Desktop\education\001\example003_some\obj\Debug\net6.0\example003_some.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinor\Desktop\education\001\example003_some\obj\Debug\net6.0\example003_some.AssemblyInfoInputs.cache
+C:\Users\vinor\Desktop\education\001\example003_some\obj\Debug\net6.0\example003_some.AssemblyInfo.cs
+C:\Users\vinor\Desktop\education\001\example003_some\obj\Debug\net6.0\example003_some.csproj.CoreCompileInputs.cache
+C:\Users\vinor\Desktop\education\001\example003_some\obj\Debug\net6.0\example003_some.dll
+C:\Users\vinor\Desktop\education\001\example003_some\obj\Debug\net6.0\ref\example003_some.dll
+C:\Users\vinor\Desktop\education\001\example003_some\obj\Debug\net6.0\example003_some.pdb
+C:\Users\vinor\Desktop\education\001\example003_some\obj\Debug\net6.0\example003_some.genruntimeconfig.cache
